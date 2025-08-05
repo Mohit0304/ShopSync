@@ -74,4 +74,3 @@ Nest is [MIT licensed](LICENSE).
 # ShopSync
 
   --  To know about sharding go to the sharding folder
-  --  To know about project explanation go to project.pdf 
